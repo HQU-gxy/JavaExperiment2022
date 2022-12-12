@@ -1,0 +1,188 @@
+{
+  "students": [
+    {
+      "name": "Van Darkholme",
+      "id": 114,
+      "gender": "male",
+      "homeTown": "New Nippori",
+      "height": 196,
+      "major": "Performance Art",
+      "college": "Dungeon University",
+      "department": "Performance",
+      "courses": [
+        {
+          "name": "Math",
+          "id": 6,
+          "type": "Necessary",
+          "credit": 12
+        },
+        {
+          "name": "English",
+          "id": 7,
+          "type": "Optional",
+          "credit": 99
+        },
+        {
+          "name": "Japanese",
+          "id": 8,
+          "type": "Necessary",
+          "credit": 92
+        },
+        {
+          "name": "History",
+          "id": 9,
+          "type": "Necessary",
+          "credit": 23
+        },
+        {
+          "name": "Geography",
+          "id": 10,
+          "type": "Optional",
+          "credit": 82
+        }
+      ]
+    },
+    {
+      "name": "Billy Herrington",
+      "id": 514,
+      "homeTown": "New York",
+      "gender": "male",
+      "height": 208,
+      "major": "Boxing",
+      "college": "Dungeon University",
+      "department": "Martial Arts",
+      "courses": [
+        {
+          "name": "Math",
+          "id": 6,
+          "type": "Necessary",
+          "credit": 34
+        },
+        {
+          "name": "English",
+          "id": 7,
+          "type": "Optional",
+          "credit": 22
+        },
+        {
+          "name": "Japanese",
+          "id": 8,
+          "type": "Necessary",
+          "credit": 6
+        },
+        {
+          "name": "History",
+          "id": 9,
+          "type": "Necessary",
+          "credit": 71
+        },
+        {
+          "name": "Geography",
+          "id": 10,
+          "type": "Optional",
+          "credit": 91
+        }
+      ]
+    }
+  ],
+  "postgraduates": [
+    {
+      "name": "Rick Astley",
+      "id": 1919,
+      "gender": "male",
+      "tutor": "Van Darkholme",
+      "homeTown": "England",
+      "height": 169,
+      "major": "Cheating",
+      "college": "Dungeon University",
+      "department": "Ripoff",
+      "topic": "Friends-Cheating",
+      "thesis": [
+        "What is a good means of cheating",
+        "Why is cheating so important",
+        "How to cheat your friends"
+      ],
+      "courses": [
+        {
+          "name": "Math",
+          "id": 6,
+          "type": "Necessary",
+          "credit": 41
+        },
+        {
+          "name": "English",
+          "id": 7,
+          "type": "Optional",
+          "credit": 62
+        },
+        {
+          "name": "Japanese",
+          "id": 8,
+          "type": "Necessary",
+          "credit": 65
+        },
+        {
+          "name": "History",
+          "id": 9,
+          "type": "Necessary",
+          "credit": 31
+        },
+        {
+          "name": "Geography",
+          "id": 10,
+          "type": "Optional",
+          "credit": 4
+        }
+      ]
+    },
+    {
+      "name": "Linus Sebastian",
+      "id": 810,
+      "gender": "male",
+      "tutor": "Anthony",
+      "homeTown": "Canada",
+      "height": 133,
+      "major": "Things-Dropping",
+      "college": "Dungeon University",
+      "department": "Physics",
+      "topic": "Drop It",
+      "thesis": [
+        "How to drop things",
+        "Why do things drop",
+        "How to drop things without breaking them"
+      ],
+      "courses": [
+        {
+          "name": "Math",
+          "id": 6,
+          "type": "Necessary",
+          "credit": 43
+        },
+        {
+          "name": "English",
+          "id": 7,
+          "type": "Optional",
+          "credit": 87
+        },
+        {
+          "name": "Japanese",
+          "id": 8,
+          "type": "Necessary",
+          "credit": 21
+        },
+        {
+          "name": "History",
+          "id": 9,
+          "type": "Necessary",
+          "credit": 78
+        },
+        {
+          "name": "Geography",
+          "id": 10,
+          "type": "Optional",
+          "credit": 92
+        }
+      ]
+    }
+  ]
+}
